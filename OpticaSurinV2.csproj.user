@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\macdo\OneDrive\Escritorio\Optica\Programa\OpricaSurinV3\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Pantallas\ArreglosYSol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pantallas\Avisos\AvisoElijaUnaGraduacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pantallas\Avisos\AvisoFacturacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pantallas\Avisos\AvisoFechasMal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pantallas\Avisos\AvisoGraduacionCerca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pantallas\Avisos\AvisoGraduacionLejos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pantallas\Avisos\AvisoMontoVentaMal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pantallas\Avisos\AvisoNecesitaReceta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pantallas\Avisos\AvisoNoHayCLientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pantallas\Avisos\AvisoNoHayCLienteSeleccionado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pantallas\Avisos\AvisoNoHayPedidoSeleccionado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pantallas\Avisos\AvisoNoHayRecetasDelCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pantallas\Avisos\AvisoNoHayRecetaSeleccionada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pantallas\Avisos\AvisoNombreMal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pantallas\Comprobante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pantallas\BuscarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pantallas\Informes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pantallas\Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pantallas\MuestraReceta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pantallas\PantallaInformeFinal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pantallas\Avisos\SelectorAnio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pantallas\Avisos\SelectorFecha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pantallas\Avisos\SelectorPeriodo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pantallas\ListadosDePedidos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pantallas\RegistrarPedido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pantallas\VentanaRegistrarPago.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
